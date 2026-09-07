@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> **I'm on the faculty job market this cycle (Fall 2026)!**
+> **I'm on the faculty job market this cycle!**
 
 I'm currently an Embedded Ethics Postdoctoral Fellow at Stanford, jointly through the [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) and the [Institute for Human-Centered AI (HAI)](https://hai.stanford.edu/), working with [James Landay](https://www.landay.org/) and [Leif Wenar](https://www.wenar.info/). I completed my PhD in Computer Science at UC San Diego (dissertation: *User Agency Across the Machine Learning Pipeline*), advised by [Margaret Roberts](http://www.margaretroberts.net/) and [David Danks](https://www.daviddanks.org/), and my BA in Computer Science (minors in Mathematics and Statistics) at Wellesley College, where I graduated Magna Cum Laude and was inducted into Phi Beta Kappa and Sigma Xi.
 
