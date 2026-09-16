@@ -8,5 +8,6 @@ date: 2026-09-01
 venue: 'Journal of Responsible Computing'
 paperurl: 'https://arxiv.org/abs/2309.11503'
 citation: 'Jennifer Chien, David Danks. &quot;Fairness Vs. Personalization: Towards Equity in Epistemic Utility.&quot; <i>FAccTRec 2023 Workshop</i>.'
+image: /images/publications/fairnessvspers.png
 topics: ["Algorithmic Recourse", "Fairness Formulations"]
 ---
