@@ -39,7 +39,7 @@ My work has been published in top AI ethics venues FAccT, AIES, EAAMO, Journal f
 ### Selected Publications
 
 {% for post in site.publications reversed %}
-  {% if post.category == 'conferences' or post.category == 'Journal' %}
+  {% if post.category == 'conferences' or post.category == 'journal' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
