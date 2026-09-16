@@ -8,5 +8,6 @@ date: 2024-07-16
 venue: 'white papers'
 paperurl: 'https://arxiv.org/pdf/2407.16895'
 citation: 'Jennifer Chien, A. Stevie Bergman, Kevin R. McKee, Nenad Tomasev, Vinodkumar Prabhakaran, Rida Qadri, Nahema Marchal, William Isaac. &quot;(Unfair) Norms in Fairness Research: A Meta-Analysis.&quot; In Submission.'
+image: /images/publications/fairnessdefnlitrev.png
 topics: ["Fairness Formulations"]
 ---
