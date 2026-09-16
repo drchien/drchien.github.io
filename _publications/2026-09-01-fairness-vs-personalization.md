@@ -1,7 +1,7 @@
 ---
 title: "Fairness Vs. Personalization: Towards Equity in Epistemic Utility"
 collection: publications
-category: Journal
+category: journal
 permalink: /publication/fairness-vs-personalization
 excerpt: 'Proposes equity in epistemic utility as an alternative to conventional fairness in personalized recommender systems.'
 date: 2026-09-01
