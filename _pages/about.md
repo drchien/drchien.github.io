@@ -23,6 +23,7 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 <ul class="updates-list">
   <li><span class="update-date">Oct 2026</span><span class="update-text">"What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026</span></li>
   <li><span class="update-date">Oct 2026</span><span class="update-text">"Making Room for Speech Diversity" accepted to Interspeech 2026</span></li>
+  <li><span class="update-date">Sep 2026</span><span class="update-text">"Fairness Vs. Personalization: Towards Equity in Epistemic Utility" accepted to the Journal of Responsible Computing</span></li>
   <li><span class="update-date">Aug 2026</span><span class="update-text">Interviewed by Instyle Magazine for <a href="https://www.instyle.com/how-ai-is-changing-plastic-surgery-in-2026-12013876">"Is AI Face Coming for All of Us?"</a></span></li>
   <li><span class="update-date">Jun 2026</span><span class="update-text">Invited Speaker on the Dialexicon Podcast called <a href="https://open.spotify.com/episode/4rurvKuhfDIvIIbEI8IXec?si=bf692abda2cf45cf&nd=1&dlsi=904f00f88b3e474a">"Unpacking the AI Doom Spiral"</a></span></li>
   <li><span class="update-date">Jun 2026</span><span class="update-text">"Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student" accepted to RESPECT 2026</span></li>
