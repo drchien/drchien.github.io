@@ -140,6 +140,8 @@ blockquote p:last-child {
   width: 100%;
   height: 100%;
   max-width: none;
+  padding: 0;
+  border: none;
   object-fit: cover;
   border-radius: 50%;
 }
